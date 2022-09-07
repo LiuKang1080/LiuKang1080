@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 I am a Full Stack Software Engineer with experience utilizing the MERN stack as well as scripting with Python and C++. I’m passionate about Simulations, Data Science, Machine Learning, and automation scripting. My past work entails automating telescope data gathering and analysis using Python at the West Virginia University Astronomy department. I further honed my skills in software development by helping both my local and online gaming communities. I did this by meeting the need to create a new responsive wiki website for a popular RPG game and upgrading local family-owned sites. Currently, I aim to incorporate Data Science / Machine Learning with responsive Full Stack Software Development.
 
-* 🌍  I'm based in Virginia
+* 🌍  I'm based in Northern Virginia
 * 🖥️  See my portfolio at [Shiva-Dev Portfolio](http://shiva-dev.netlify.app/)
 * ✉️  You can contact me at [mahakali.shivakumar@gmail.com](mailto:mahakali.shivakumar@gmail.com)
 * 🚀  I'm currently working on [RPG Game Wiki Website](http://liukang1080.github.io/Nioh_Website/)
