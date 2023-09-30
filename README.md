@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer with experience utilizing the MERN stack as 
 * 🌍  I'm based in Northern Virginia
 * 🖥️  See my portfolio at [Shiva-Dev Portfolio](http://shiva-dev.netlify.app/)
 * ✉️  You can contact me at [mahakali.shivakumar@gmail.com](mailto:mahakali.shivakumar@gmail.com)
-* 🚀  I'm currently working on [RPG Game Wiki Website](http://liukang1080.github.io/Nioh_Website/)
+* 🚀  I'm currently working on [RPG Game Wiki Website](https://liukang1080.github.io/gamewiki/)
 
 
 Skills
